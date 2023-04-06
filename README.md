@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋Hey, My name is Divyansh, and<br>🧑‍🎓I'm a 2nd-year student at VIT-BHOPAL University, MP.<br>🌿I'm currently pursuing my B.tech in Computer Science and Engineering.<br>📱I'm currently learning and making Android and web applications with Flutter.<br>
+# 👋Hey, My name is Divyansh
+🧑‍🎓I'm a 2nd-year student at VIT-BHOPAL University, MP.<br>🌿I'm currently pursuing my B.tech in Computer Science and Engineering.<br>📱I'm currently learning and making Android and web applications with Flutter.<br>
 
 
 ## 🌐 Socials:
