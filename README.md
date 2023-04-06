@@ -1,4 +1,7 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:828/1*TA_uzgvd_SGh0rxlKQ4d6Q.gif)
+<p align="center">
+  ![MasterHead](https://miro.medium.com/v2/resize:fit:828/1*TA_uzgvd_SGh0rxlKQ4d6Q.gif)
+</p>
+
 # 👋Hey there, I'm Divyansh
 🧑‍🎓I'm a 2nd-year student at VIT-BHOPAL University, MP.<br>🌿I'm currently pursuing my B.tech in Computer Science and Engineering.<br>📱I'm currently learning Flutter for Android and Web application.<br>🤝I'm open for colaboration on flutter repositories.
 
