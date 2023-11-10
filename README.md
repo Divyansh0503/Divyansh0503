@@ -1,5 +1,5 @@
 # 👋Hey there, I'm Divyansh
-🧑‍🎓I'm a 2nd-year student at VIT-BHOPAL University, MP.<br>🌿I'm currently pursuing my B.tech in Computer Science and Engineering.<br>📱I'm currently learning Flutter for Android and Web application.<br>🤝I'm open for colaboration on flutter repositories.
+🧑‍🎓I'm a 3rd-year student at VIT-BHOPAL University, MP.<br>🌿I'm currently pursuing my B.tech in Computer Science and Engineering.<br>📱I'm currently learning Flutter for Android and Web application.<br>🤝I'm open for colaboration on flutter repositories.
 
 [![](https://visitcount.itsvg.in/api?id=Divyansh0503&icon=0&color=0)](https://visitcount.itsvg.in)
 
